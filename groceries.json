@@ -1,0 +1,102 @@
+[
+    {
+        "siNo":1,
+        "name":"sugar",
+        "quantity":5,
+        "unit":"Kilogram",
+        "department":"food item",
+        "notes":"do not buy brown sugar..!!!"
+
+
+    },
+    {
+        "siNo":2,
+        "name":"rice",
+        "quantity":10,
+        "unit":"Kilogram",
+        "department":"food item",
+        "notes":"whole grain rice with fiber coating preferred"
+
+
+    },
+    {
+        "siNo":3,
+        "name":"green gram",
+        "quantity":6,
+        "unit":"Kilogram",
+        "department":"food item",
+        "notes":"buy the one with  good quality "
+
+
+    },
+    {
+        "siNo":4,
+        "name":"Pumpkin",
+        "quantity":1,
+        "unit":"Number",
+        "department":"food item",
+        "notes":"buy the large and fresh one"
+
+
+    },
+    {
+        "siNo":5,
+        "name":"Note Books",
+        "quantity":3,
+        "unit":"Number",
+        "department":"stationery",
+        "notes":"make sure notebooks are ruled"
+
+
+    },
+    {
+        "siNo":6,
+        "name":"Ball pen",
+        "quantity":2,
+        "unit":"Number",
+        "department":"stationery",
+        "notes":"blue ink preferred"
+
+
+    },
+    {
+        "siNo":7,
+        "name":"Writing Pad",
+        "quantity":1,
+        "unit":"Number",
+        "department":"stationery",
+        "notes":"laminated covering could be better"
+
+
+    },
+    {
+        "siNo":8,
+        "name":"sanitizer",
+        "quantity":3,
+        "unit":"Number",
+        "department":"health products",
+        "notes":"make sure the alchohol content does not exceed 5%"
+
+
+    },
+    {
+        "siNo":9,
+        "name":"N-95 Mask",
+        "quantity":10,
+        "unit":"Number",
+        "department":"health products",
+        "notes":"Buy reusable masks"
+
+
+    },
+    {
+        "siNo":10,
+        "name":"Disinfectant",
+        "quantity":1,
+        "unit":"Number",
+        "department":"health products",
+        "notes":"buy large bottle"
+
+
+    }
+]
